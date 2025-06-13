@@ -43,9 +43,9 @@ I'm driven to continuously sharpen my _skills_ and forge _impactful, collaborati
 
 
 ## 📊Github Stats
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariazorila4&theme=codeSTACKr&" alt="mariazorila4"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariazorila4&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="mariazorila4"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariazorila4&theme=modern-lilac2&" alt="mariazorila4"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariazorila4&show_icons=true&locale=en&layout=compact&modern-lilac2" alt="mariazorila4"/>
   
-  ![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariazorila4&show_icons=true&theme=codeSTACKr)
+  ![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariazorila4&show_icons=true&theme=modern-lilac2)
 
 ##See, yaa!✌️😉
