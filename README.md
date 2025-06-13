@@ -43,7 +43,7 @@ I'm driven to continuously sharpen my _skills_ and forge _impactful, collaborati
 
 
 ## 📊Github Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariazorila4&theme=nightowl" alt="mariazorila4"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariazorila4&theme=nightowl&" alt="mariazorila4"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariazorila4&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mariazorila4"/>
 
