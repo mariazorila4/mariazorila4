@@ -14,7 +14,7 @@ I'm driven to continuously sharpen my _skills_ and forge _impactful, collaborati
 ## 💼 What Tech Stack I am used working with?
 
 - 🥇 🛢️ **SQL**
-    -  Primarily working with **Oracle** and **DBDiagram** to deepen my understanding of relational databases, focusing on design, query optimization, and administration. (ex: [Oracle Database Projects]((https://github.com/mariazorila4/Pharmacy_Inventory_Data_Base_Project),(https://github.com/mariazorila4/Medical_Insurance_Field_Data_Base_Project)))
+    -  Primarily working with **Oracle** and **DBDiagram** to deepen my understanding of relational databases, focusing on design, query optimization, and administration. (ex: [Oracle Database Project Pharmacy Inventory](https://github.com/mariazorila4/Pharmacy_Inventory_Data_Base_Project))(ex:[Oracle Database Project Medical Insurance Field](https://github.com/mariazorila4/Medical_Insurance_Field_Data_Base_Project))
 - 🥈 📊**PowerBI**
     - Building dashboards in Power BI which integrate customer, product, and delivery data to support business and logistics decisions.(ex: [Dasboard Sales and Logistics](https://github.com/mariazorila4/Dashboard-Sales-and-Logistics-Analysis))
 - 🥉 ⚙️ **C# / .NET**
