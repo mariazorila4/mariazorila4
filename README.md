@@ -48,4 +48,4 @@ I'm driven to continuously sharpen my _skills_ and forge _impactful, collaborati
   
   ![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariazorila4&show_icons=true&theme=codeSTACKr)
 
-##See, yaa!✌️😉
+See, yaa!✌️😉
