@@ -46,7 +46,7 @@ I'm driven to continuously sharpen my _skills_ and forge _impactful, collaborati
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariazorila4&theme=dracula" alt="mariazorila4"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariazorila4&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mariazorila4"/>
 
-![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariazorila4&show_icons=true&theme=dracula) alt="mariazorila4"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mariazorila4&show_icons=true&theme=dracula" alt="mariazorila4"/>
   
 
 See, yaa!✌️😉
