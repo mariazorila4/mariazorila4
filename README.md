@@ -21,6 +21,9 @@ I'm driven to continuously sharpen my _skills_ and forge _impactful, collaborati
     -  Creating a WinForms application using the .NET Framework ([Check it](https://github.com/mariazorila4/RezzoApp---WinForms-App))  
 - 💻 **C / C++**
     -  I've explored low-level programming principles through university courses like **Algorithms and Programming Techniques** and **Data Structures**. Additionally, I gained initial exposure to C and C++ during high school, specifically for my _computer science certification project_.([You can see it here->](https://github.com/mariazorila4/Object_Motion_Simulation_Code-Blocks_Project))
+- **JavaScript**
+      - During Lenovo Summer School I developed a full stack web application. Given the knowledge I gained, together with my colleague I am developing a web application similar to the one developed at the school.
+      ([Check it->](https://github.com/zainea-bogdan/LSS_Shop_Prototype))
 - 🐍 **Python**
     -  My current experience includes working with NumPy and an introduction to Pandas for data operations(ex: [Filter data for PowerBi Dashboard](https://github.com/mariazorila4/Dashboard-Sales-and-Logistics-Analysis/tree/main/PythonProject3))  
 
@@ -37,6 +40,7 @@ I'm driven to continuously sharpen my _skills_ and forge _impactful, collaborati
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Oracle Apex](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
