@@ -5,7 +5,7 @@
 <br clear="all"/>
 
 ## 🤔 Maybe you're asking who am I?
-Well, my name is **Zorilă Maria Cristina**, a second-year student pursuing a Bachelor’s degree in **Economic Informatics**.
+Well, my name is **Zorilă Maria Cristina**, a third-year student pursuing a Bachelor’s degree in **Economic Informatics**.
 
 I'm currently deepening my knowledge in SQL, OOP, and languages like Java, C, C#, and Python. I'm looking to take my first steps in my career, contribute to real-world projects, and collaborate with people who share the same passion for technology.
 
