@@ -16,8 +16,8 @@ Right now, I’m focusing on sharpening my skills in **Node.js, Express, and Rea
 
 ### 🌐 Full-Stack Web Development
 * **Modern Frameworks:** Built full-stack applications using **Node.js, Express, Angular, and MongoDB**.
-* **AI-Assisted Dev:** Participant in the **Cursor Hackathon (2025)**, where I built "ChemBuddies" using Cursor Pro.
-* **Collaboration:** Contributed to **PeerCode Studio**, an anonymous grading system, focusing on REST APIs and React dashboards.
+* **AI-Assisted Dev:** Participant in the [**Cursor Hackathon (2025)**](https://www.linkedin.com/posts/maria-cristina-zoril%C4%83-42bb57232_rome-wasnt-built-in-a-day-but-a-first-activity-7385624746790559744-iQ2B?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADow6qMBOM46pXlV8BXf_k4kZ6HZ_9qf1KE), where I built "ChemBuddies" using Cursor Pro.
+* **Collaboration:** Contributed to [**PeerCode Studio**](https://www.linkedin.com/posts/zainea-bogdan-%F0%9F%8D%9C-b38518242_finals-week-or-my-final-week-honestly-activity-7417225137768493056-E-jZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADow6qMBOM46pXlV8BXf_k4kZ6HZ_9qf1KE), an anonymous grading system, focusing on REST APIs and React dashboards.
 
 ### 📊 Data Science & Business Intelligence
 * **Visualization:** Developed multi-page **Power BI** dashboards with interactive **DAX** visuals for sales and logistics.
