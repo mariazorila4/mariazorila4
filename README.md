@@ -39,6 +39,7 @@ Right now, I’m focusing on sharpening my skills in **Node.js, Express, and Rea
 ---
 
 ## 🏆 Recent Achievements
+* 🥇 **1st Place** - ASE Scientific Communications Session (Statistics Dept.).
 * 📄 **Published Researcher** - International Academic Conference (RESILNAT-3C).
 * 🏅 **6th Place** - ASE Scientific Communications Session (Statistics Dept.).
 * 🥉 **3rd Place** - ASE Scientific Communications Session (Applied Math Dept.).
